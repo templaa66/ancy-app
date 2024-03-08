@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ancy-app/static/css/main.c0dd2430.css",
-    "main.js": "/ancy-app/static/js/main.dfe36ab1.js",
+    "main.css": "/ancy-app/static/css/main.9c3c99cf.css",
+    "main.js": "/ancy-app/static/js/main.c2245a3f.js",
     "static/js/453.2dfe3b0c.chunk.js": "/ancy-app/static/js/453.2dfe3b0c.chunk.js",
     "static/media/giphy.gif": "/ancy-app/static/media/giphy.04dfae0a6cd2770584fd.gif",
     "index.html": "/ancy-app/index.html",
-    "main.c0dd2430.css.map": "/ancy-app/static/css/main.c0dd2430.css.map",
-    "main.dfe36ab1.js.map": "/ancy-app/static/js/main.dfe36ab1.js.map",
+    "main.9c3c99cf.css.map": "/ancy-app/static/css/main.9c3c99cf.css.map",
+    "main.c2245a3f.js.map": "/ancy-app/static/js/main.c2245a3f.js.map",
     "453.2dfe3b0c.chunk.js.map": "/ancy-app/static/js/453.2dfe3b0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0dd2430.css",
-    "static/js/main.dfe36ab1.js"
+    "static/css/main.9c3c99cf.css",
+    "static/js/main.c2245a3f.js"
   ]
 }
