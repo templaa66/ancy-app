@@ -2,7 +2,7 @@
 function Note() {
     return(
         <>
-        <div>
+        <div className="App-header">
             something
         </div>
         </>
