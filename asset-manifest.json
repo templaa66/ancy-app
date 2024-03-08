@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ancy-app/static/css/main.9c3c99cf.css",
-    "main.js": "/ancy-app/static/js/main.51ac70d6.js",
+    "main.js": "/ancy-app/static/js/main.cc70c7f3.js",
     "static/js/453.2dfe3b0c.chunk.js": "/ancy-app/static/js/453.2dfe3b0c.chunk.js",
     "static/media/giphy.gif": "/ancy-app/static/media/giphy.04dfae0a6cd2770584fd.gif",
     "index.html": "/ancy-app/index.html",
     "main.9c3c99cf.css.map": "/ancy-app/static/css/main.9c3c99cf.css.map",
-    "main.51ac70d6.js.map": "/ancy-app/static/js/main.51ac70d6.js.map",
+    "main.cc70c7f3.js.map": "/ancy-app/static/js/main.cc70c7f3.js.map",
     "453.2dfe3b0c.chunk.js.map": "/ancy-app/static/js/453.2dfe3b0c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c3c99cf.css",
-    "static/js/main.51ac70d6.js"
+    "static/js/main.cc70c7f3.js"
   ]
 }
