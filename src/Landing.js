@@ -7,7 +7,7 @@ function Landing({renderCallback}) {
     const [warning, showWarning] = useState(false);
 
     const check = (render) => {
-      if (inputText === 'ostrzytko')
+      if (inputText.toLowerCase() === "ostrzytko")
         render(true);
       else showWarning(true);
     };
